@@ -46,6 +46,8 @@ find_package(catkin REQUIRED COMPONENTS
  add_message_files(
    FILES
    Accelerometer.msg
+   GPIOs.msg
+   MotorCurrents.msg
    ServoMsg.msg
    ServoMsgArray.msg
  )
