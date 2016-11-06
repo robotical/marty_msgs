@@ -1,1 +1,1 @@
-float32[] gpio
+float32[8] gpio
