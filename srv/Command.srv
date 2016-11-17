@@ -1,0 +1,22 @@
+int32 CMD_HELLO = 0
+int32 CMD_MOVEKNEE = 1
+int32 CMD_MOVEHIP = 2
+int32 CMD_LEANSAGITTAL = 3
+int32 CMD_LEANSIDEWAYS = 4
+int32 CMD_STEP = 5
+int32 CMD_WALK = 6
+int32 CMD_EYES = 7
+int32 CMD_KICK = 8
+int32 CMD_MOVEJOINTS = 9
+int32 CMD_LIFTLEG = 10
+int32 CMD_LOWERLEG = 11
+int32 CMD_CELEBRATE = 12
+int32 CMD_HIPTOBESQUARE = 13
+int32 CMD_ROLLERSKATE = 14
+int32 CMD_ARMS = 15
+int32 CMD_DEMO = 16
+int32 CMD_STOP = 17
+# First value data[0] is CMD, rest is cmd data
+int32[] data
+---
+bool success
