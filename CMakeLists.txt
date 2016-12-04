@@ -58,6 +58,7 @@ add_service_files(
   FILES
   Command.srv
   GPIOConfig.srv
+  Sound.srv
 )
 
 ## Generate actions in the 'action' folder
