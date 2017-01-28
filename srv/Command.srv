@@ -12,8 +12,9 @@ int32 CMD_ROLLERSKATE = 10
 int32 CMD_ARMS = 11
 int32 CMD_DEMO = 12
 int32 CMD_GET = 13
-int32 CMD_SOUND = 14
-int32 CMD_STOP = 15
+int32 CMD_SIDESTEP = 14
+int32 CMD_SOUND = 15
+int32 CMD_STOP = 16
 # First value data[0] is CMD, rest is cmd data
 int32[] data
 ---
