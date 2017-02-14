@@ -28,6 +28,12 @@ int32 J_KNEE = 2
 int32 J_LEG = 3
 int32 J_ARM = 4
 int32 J_EYES = 5
+# Sensors enum
+int32 GET_GPIO = 0
+int32 GET_ACCEL = 1
+int32 GET_BATT = 2
+int32 GET_CURR = 3
+int32 GET_BALL = 4
 int32[] data
 ---
 bool success
