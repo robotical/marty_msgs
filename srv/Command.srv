@@ -14,8 +14,9 @@ int32 CMD_ARMS = 11
 int32 CMD_DEMO = 12
 int32 CMD_GET = 13
 int32 CMD_SIDESTEP = 14
-int32 CMD_SOUND = 15
-int32 CMD_STOP = 16
+int32 CMD_STRAIGHT = 15
+int32 CMD_SOUND = 16
+int32 CMD_STOP = 17
 # Direction enum
 int32 CMD_LEFT = 0
 int32 CMD_RIGHT = 1
