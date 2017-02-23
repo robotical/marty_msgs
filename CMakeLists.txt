@@ -51,6 +51,8 @@ find_package(catkin REQUIRED COMPONENTS
    Output.msg
    ServoMsg.msg
    ServoMsgArray.msg
+   Sound.msg
+   SoundArray.msg
  )
 
 ## Generate services in the 'srv' folder
@@ -58,7 +60,6 @@ add_service_files(
   FILES
   Command.srv
   GPIOConfig.srv
-  Sound.srv
 )
 
 ## Generate actions in the 'action' folder
