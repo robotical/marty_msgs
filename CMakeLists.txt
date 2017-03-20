@@ -47,6 +47,8 @@ find_package(catkin REQUIRED COMPONENTS
    FILES
    Accelerometer.msg
    GPIOs.msg
+   Keyframe.msg
+   KeyframeArray.msg
    MotorCurrents.msg
    Output.msg
    ServoMsg.msg
