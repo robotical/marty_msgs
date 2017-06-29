@@ -55,6 +55,7 @@ find_package(catkin REQUIRED COMPONENTS
    ServoMsgArray.msg
    Sound.msg
    SoundArray.msg
+   CentroidMsg.msg
  )
 
 ## Generate services in the 'srv' folder
