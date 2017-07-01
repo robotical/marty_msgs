@@ -54,6 +54,8 @@ find_package(catkin REQUIRED COMPONENTS
    Output.msg
    ServoMsg.msg
    ServoMsgArray.msg
+   ServoPositions.msg
+   ServosEnabled.msg
    Sound.msg
    SoundArray.msg
    CentroidMsg.msg
